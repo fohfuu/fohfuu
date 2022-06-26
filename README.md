@@ -1,8 +1,7 @@
 #### Hello!
 
-Thanks for being interested to have a look at my profile, haha
 
-I'm not fluent in absolutely any language, and I don't even know most of the theory.
+I'm not fluent in absolutely any (programming) language, and I don't even know most of the theory.
 I'm just a humble home user who's doing her best
 
 FOSS is the future, as the capitalism that usually accompanies closed-source projects
@@ -18,12 +17,11 @@ Additionally, I can get overloaded by light and sound. Tweaking these to reduce 
 I can't offer much in terms of programming. I believe I am pretty good at providing feedback that is
 constructive and detailed.
 
-I'm currently focusing on doing as much as I can in bash. Absolutely not the best choice for most applications,
+I'm probably the least unskilled with bash. Absolutely not the best choice for most applications,
 but I figured I might as well get comfortable using the terminal. I haven't needed to do a fresh install once!
 
 ...but I probably should
 
-My other interests are anime, illustration (digital, with a little dip in design), mobile gaming, and learning in general.
+My other interests are anime, digital illustration, mobile gaming, and learning in general.
 
-
-There is no future without Indigenous land rights and BBA liberation. Trans rights. Disabled rights. Intersex rights. Luxury Gay Space Communism. etc.
+Human rights are necessary for the future of humanity.
